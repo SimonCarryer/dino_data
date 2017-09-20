@@ -1,0 +1,29 @@
+name,weight (tonnes),diet,gait,length (m),Jurassic,train,display,defence,feathers (confirmed),feathers (likely)
+Velociraptor,0.015,carnivore,bipedal,2,0,1,0,0,1,1
+Albertonykus,0.005,carnivore,bipedal,1.1,0,0,0,0,1,1
+Dryosaurus,0.09,herbivore,bipedal,3,1,1,0,0,0,0
+Elaphrosaurus,0.21,carnivore,bipedal,6,1,1,0,0,0,0
+Deinonychus,0.073,carnivore,bipedal,3.4,0,0,0,0,1,1
+Dracopelta,0.05,herbivore,quadrupedal,1,1,0,0,1,0,0
+Dilophosaurus,0.4,carnivore,bipedal,6,1,1,1,0,0,1
+Pachycephalosaurus,0.45,herbivore,bipedal,4.5,0,0,1,0,0,0
+Utahraptor,0.5,carnivore,bipedal,7,0,1,0,0,1,1
+Parasaurolophus,3.2,herbivore,bipedal,12,0,1,1,0,0,0
+Ceratosaurus,0.4,carnivore,bipedal,6,1,1,1,0,0,1
+Albertosaurus,1.3,carnivore,bipedal,9,0,0,0,0,0,1
+Megalosaurus,1.1,carnivore,bipedal,9,1,0,0,0,0,1
+Bactrosaurus,1.5,herbivore,bipedal,6,0,1,0,0,0,0
+Spinosaurus,9,carnivore,bipedal,15,0,1,1,0,0,0
+Stegosaurus,2.4,herbivore,quadrupedal,9,1,1,0,1,0,0
+Allosaurus,2.3,carnivore,bipedal,8.5,1,1,0,0,0,1
+Ankylosaurus,6,herbivore,quadrupedal,10,0,1,0,1,0,0
+Iguanodon,3.8,herbivore,quadrupedal,10,0,1,0,0,0,0
+Altirhinus,1.1,herbivore,bipedal,6,0,1,1,0,0,0
+Giganotosaurus,10,carnivore,bipedal,14.3,0,1,0,0,0,1
+Tyrannosaurus rex,8.4,carnivore,bipedal,12.4,0,1,0,0,0,1
+Carcharodontosaurus,8,carnivore,bipedal,13,0,1,0,0,0,0
+Yangchuanosaurus,3.4,carnivore,bipedal,10,1,0,0,0,0,1
+Apatosaurus,20,herbivore,quadrupedal,22,1,1,0,0,0,1
+Triceratops,8,herbivore,quadrupedal,8,0,1,0,1,0,0
+Camarasaurus,47,herbivore,quadrupedal,20,1,1,0,0,0,0
+Brachiosaurus,56,herbivore,quadrupedal,26,1,1,0,0,0,0
